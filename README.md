@@ -7,7 +7,7 @@ GPT is GUID Partition Table.
 ## Linux
 Install python2.7 and switch to python2.7.
 ```
-git clone https://github.com/lgs2007m/cdt-gpt-ipq60xx-generate
+git clone https://github.com/66o99/cdt-gpt-ipq60xx-generate
 cd cdt-gpt-ipq60xx-generate/meta-tools/
 python2.7 prepareSingleImage.py --arch ipq6018 --fltype emmc --gencdt --genpart
 ```
